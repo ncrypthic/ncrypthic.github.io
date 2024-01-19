@@ -1,0 +1,33 @@
+<svg width="1100" height="1100" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="layer_1">
+   <rect fill="#000000" fill-opacity="0" width="620" height="200" id="svg_1" stroke="#000000" x="240" y="40"/>
+  </g>
+ </g>
+ <g class="layer">
+  <title>Layer 2</title>
+  <g id="layer_2">
+   <rect fill="#000000" fill-opacity="0" width="200" height="620" id="svg_2" stroke="#000000" x="40" y="240"/>
+  </g>
+ </g>
+ <g class="layer">
+  <title>Layer 3</title>
+  <g id="layer_3">
+   <rect fill="#000000" fill-opacity="0" width="620" height="620" id="svg_3" stroke="#000000" x="240" y="240"/>
+  </g>
+ </g>
+ <g class="layer">
+  <title>Layer 4</title>
+  <g id="layer_4">
+   <rect fill="#000000" fill-opacity="0" width="200" height="620" id="svg_4" stroke="#000000" x="860" y="240"/>
+  </g>
+ </g>
+ <g class="layer">
+  <title>Layer 5</title>
+  <g id="layer_5">
+   <rect fill="#000000" fill-opacity="0" width="620" height="200" id="svg_5" stroke="#000000" x="240" y="860"/>
+  </g>
+ </g>
+</svg>

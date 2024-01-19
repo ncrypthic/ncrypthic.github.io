@@ -1,4 +1,5 @@
 ---
+permalink: /resume
 layout: cv
 title: Lim Afriyadi's CV
 ---
